@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/igraph/universe
+	url = https://github.com/igraph/igraph.r-universe.dev
 	branch = HEAD
 [submodule "igraph"]
 	path = igraph
