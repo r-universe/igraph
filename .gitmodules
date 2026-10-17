@@ -5,6 +5,10 @@
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/igraph/rigraph
+[submodule "igraph.dev"]
+	path = igraph.dev
+	url = https://github.com/igraph/rigraph
+	branch = main-green
 [submodule "igraphdata"]
 	path = igraphdata
 	url = https://github.com/igraph/igraphdata
